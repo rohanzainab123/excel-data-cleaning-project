@@ -1,2 +1,22 @@
-# excel-data-cleaning-project
-Cleaned excel data using excel shortcuts ,clean formatting, remove duplicates data using filter, Filled blank data ,fixed date and numbers.
+
+# Excel Data Cleaning Project
+
+## Project Overview
+This project demonstrates data cleaning using Microsoft Excel.
+
+## Dataset
+- Total Rows: 1000+
+- Tool Used: Microsoft Excel
+
+## Tasks Performed
+- Identified missing values
+- Removed duplicate records
+- Standardized date formats
+- Corrected text formatting
+- Cleaned numeric values
+
+## Skills Used
+- Microsoft Excel
+- Data Cleaning
+- Data Preparation
+- Data Validation
